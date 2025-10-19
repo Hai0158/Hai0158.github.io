@@ -9,25 +9,39 @@
 	align-items: center;
 }
 .title{
-	font-size: 55px;
+	font-size: 4em;
 	text-align: center;
 	background-color: white;
 	color: black;
 }
 
 .h2_1{
-	font-size: 50px;
+	font-size: 2em;
 }
 .history{
-	font-size: 25px;
+	font-size: 1.75em;
 }
 
 .passpic{
 	height: 60vh;
 }
 
+.h2_2{
+	font-size: 2em;
+}
+.skills{
+	font-size: 1.75em;
+}
+.setpic{
+	height: 60vh;
+}
 
 .hitpic{
-	height: 60vh;
-	width: 70vh;
+	width: 90%;
+}
+.h2_3{
+	font-size: 2em;
+}
+.positions{
+	font-size: 1.75em;
 }
